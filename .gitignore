@@ -25,3 +25,6 @@ tsc
 *.sln
 *.sw?
 .env
+
+# Yarn
+.yarn
